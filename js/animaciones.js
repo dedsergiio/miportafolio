@@ -23,11 +23,11 @@ window.sr = ScrollReveal();
     sr.reveal('.animation-top', {
         duration: 2000,
         origin: 'top',
-        distance: '-500px',
+        distance: '-200px',
         reset: true
     });
 
-    if (window.matchMedia("(max-width: 768px)").matches) {
+    /*if (window.matchMedia("(max-width: 768px)").matches) {
         sr.destroy();
-      }
+      }*/
 
