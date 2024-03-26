@@ -203,7 +203,7 @@ main .intro p{
 /*********************************INFORMACIÓN*************************************/
 .conteiner_info {
     height: auto;
-    background-image: url('/img/fondo_negro_rojo.jpg');
+    background-image: url('../img/fondo_negro_rojo.jpg');
     background-size: cover;
     background-position: center;
     /*background: rgb(0, 0, 0);*/
